@@ -8,7 +8,7 @@
 		</header>
 		<p> He is school teacher. He likes extreme sport. HE likes speed. He is single with one kid and one dog. He travels in the summer.</p>
 		<img src="/actionfoto.jpg" alt="action"/>
-
+			<h3>Use cases</h3>
 		<p>the first use case is A person rent a car by accesing the site, deciding the price and clicking.</p>
 		<p>The  second use case is A person rent a car  by accessing  the site,reserve the car later rent the car</p>
 		<p> The third use case is a person try to rent a car by accesing the site make reservation but never reserve it </p>
