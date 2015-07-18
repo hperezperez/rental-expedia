@@ -6,7 +6,7 @@
 		<header>
 			<h1> JOSE SANCHEZ</h1>
 		</header>
-		<p> HE is school teacher. He likes extreme sport. HE likes speed. He is single with one kid and one dog. He travels in the summer.</p>
+		<p> He is school teacher. He likes extreme sports. He  likes speed. He is single with one kid and one dog. He travels in the summer.</p>
 		<img src="images/actionfoto.jpg" alt="action"
 
 		<p>the first use case is A person rent a car by accesing the site, deciding the price and clicking.</p>
