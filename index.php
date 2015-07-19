@@ -1,5 +1,5 @@
 <! DOCTYPE html>
-<hmtl>
+<hmtl lang="en">
 
 	<title>Data Design Proyect Phase 1 </title>
 	<body>
